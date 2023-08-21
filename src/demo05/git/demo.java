@@ -1,4 +1,4 @@
-package git;
+package demo05.git;
 
 public class demo {
     public static void main(String[] args){
